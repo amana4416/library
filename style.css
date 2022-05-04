@@ -160,6 +160,24 @@ body {
     color: rgba(0,0,0,.15);
     transition: all .3s;
   }
+
+  /* Footer styling */
+footer {
+    background-color: #b4c9c7;
+    padding: 16px 40px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  footer a {
+    color: #324855;
+    transition: all .3s;
+  }
+  
+  footer a:hover {
+    color: #324855;
+    transition: all .3s;
+  }
   
   /* Modal styling */
   .modal {

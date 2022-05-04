@@ -1,8 +1,8 @@
 {
     "name": "library",
     "version": "1.0.0",
-    "description": "Project to create small Library app using only HTML, CSS and Vanilla JS.",
-    "main": "app.js",
+    "description": "A library app built using HTML, CSS, and JS!.",
+    "main": "main.js",
     "dependencies": {},
     "devDependencies": {
       "eslint": "^8.6.0",
@@ -14,12 +14,12 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Artis-Dev/library.git"
+      "url": "git+https://github.com/amana4416/library.git"
     },
-    "author": "ArtisDev",
+    "author": "amana4416",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Artis-Dev/library/issues"
+      "url": "https://github.com/amana4416/library/issues"
     },
-    "homepage": "https://github.com/Artis-Dev/library#readme"
+    "homepage": "https://github.com/amana4416/library#readme"
   }

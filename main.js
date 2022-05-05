@@ -150,7 +150,7 @@ function addDemoData() {
   addBookToLibrary('The Inheritance Games', 'Jennifer Lynn Barnes', '400', true);
   addBookToLibrary('The Hawthorne Legacy', 'Jennifer Lynn Barnes', '368', true);
   addBookToLibrary('The Final Gambit', 'Jennifer Lynn Barnes', '400', false);
-  addBookToLibrary('The Kit Runner', 'Khaled Hosseini', '371', true);
+  addBookToLibrary('The Kite Runner', 'Khaled Hosseini', '371', true);
   addBookToLibrary('The Seven Husbands of Evelyn Hugo', 'Taylor Jenkins Reid', '400', false);
   addBookToLibrary('Percy Jackson: The Lightning Thief', 'Rick Riordan,', '377', false);
   addBookToLibrary('Pride and Prejudice', 'Jane Austen', '368', true);
